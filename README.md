@@ -1,1 +1,1 @@
-# [※YYYTDL-Devは名称を変更しました。The name of YYYTDL-Dev was changed.](https://github.com/yyhome-tromb/YYYTDL)
+# [※YYYTDL-Devは名称をYYYTDLに変更しました。YYYTDL-Dev has changed its name to YYYTDL.](https://github.com/yyhome-tromb/YYYTDL)
